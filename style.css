@@ -5,7 +5,7 @@ html {
 }
 
 body {
-    background: url("../img/back.jpg") center left;    
+    background: url(../img/back.jpg) center left;    
     background-size: cover;
     height: 100vh;
     box-sizing: border-box;
