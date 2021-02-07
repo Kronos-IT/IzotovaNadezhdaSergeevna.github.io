@@ -5,7 +5,7 @@ html {
 }
 
 body {
-    background: url(../img/back.jpg) center left;    
+    background: url("../img/photo/back.jpg") center left;    
     background-size: cover;
     height: 100vh;
     box-sizing: border-box;
@@ -17,7 +17,7 @@ body {
     margin: 0 auto;
     height: 342px;
     width: 1000px;    
-    background: url("../img/main.jpg") #eee center center no-repeat;
+    background: url("../img/photo/main.jpg") #eee center center no-repeat;
 }
 
 .main-content-welcome {    
